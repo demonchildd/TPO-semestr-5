@@ -9,7 +9,7 @@
 3. Нажать enter для подтверждения поиска
 
 <strong>Ожидаемый результат:</strong> Переход на страницу с аналогичными товарами<br>
-<img height="140" width="270" title="img with result"  src="Search.png"/><br>
+<img height="280" width="540" title="img with result"  src="Search.png"/><br>
 <strong>Фактические результаты: </strong> Ничего не произошло, мы остались на главной странице<br>
 <strong>Статус: </strong> Провал<br>
 <hr>
@@ -26,5 +26,5 @@
 
 <strong>Ожидаемый результат:</strong> Товар добавился в панель "Избранное", в верхней навигационной панели появился символ "+1" возле соответствующего пункта меню<br>
 <strong>Фактические результаты: </strong> Как ожидаемый<br>
-<img height="150" src="Like.png" title="img with result" width="300"/><br>
+<img height="150" src="Like.png" title="img with result" width="160"/><br>
 <strong>Статус: </strong> Пройден<br>
