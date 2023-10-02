@@ -74,6 +74,6 @@
 
 <strong>Ожидаемый результат:</strong> Пользователь довабит адрес доставки<br>
 <strong>Фактические результаты: </strong> Как ожидаемый<br>
-<img height="100" src="Address.png" title="img with result" width="300"/><br>
+<img height="500" src="Address.png" title="img with result" width="700"/><br>
 <strong>Статус: </strong> Пройден<br>
 <hr>
