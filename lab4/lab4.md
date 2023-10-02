@@ -26,5 +26,5 @@
 
 <strong>Ожидаемый результат:</strong> Товар добавился в панель "Избранное", в верхней навигационной панели появился символ "+1" возле соответствующего пункта меню<br>
 <strong>Фактические результаты: </strong> Как ожидаемый<br>
-<img height="150" src="Like.png" title="img with result" width="160"/><br>
+<img height="130" src="Like.png" title="img with result" width="160"/><br>
 <strong>Статус: </strong> Пройден<br>
